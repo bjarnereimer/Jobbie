@@ -3,11 +3,17 @@
 # Changed to this
 https://github.com/spring-guides/gs-rest-service
 
+https://github.com/eugenp/tutorials/tree/master/spring-boot-modules/spring-boot-runtime
+
+
+# GitHub workflows
+
+https://github.com/actions/starter-workflows/actions
+
 
 # Links for first version
 
 Not working
-
 https://www.baeldung.com/java-graphs
 https://stackoverflow.com/questions/38953331/threadpool-executor-with-priority-tasks-and-avoid-starvation
 https://www.baeldung.com/thread-pool-java-and-guava
