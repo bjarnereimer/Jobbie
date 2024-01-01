@@ -5,6 +5,8 @@ https://github.com/spring-guides/gs-rest-service
 
 https://github.com/eugenp/tutorials/tree/master/spring-boot-modules/spring-boot-runtime
 
+https://spring.io/guides/gs/accessing-data-rest/
+
 
 # GitHub workflows
 
