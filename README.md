@@ -3,6 +3,8 @@
 # Changed to this
 https://github.com/spring-guides/gs-rest-service
 
+https://github.com/eugenp/tutorials/tree/master/spring-boot-modules/spring-boot-runtime
+
 
 # GitHub workflows
 
