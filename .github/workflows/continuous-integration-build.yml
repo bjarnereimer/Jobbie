@@ -23,6 +23,3 @@ jobs:
           java-version: '17'
           distribution: 'temurin'
           cache: maven
-
-      - name: Build Initial with Gradle
-        run: ./gradlew build
