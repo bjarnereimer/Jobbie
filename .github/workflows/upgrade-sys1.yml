@@ -1,0 +1,21 @@
+name: Upgrade Sys1
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
+
+jobs:
+  upgrade-schema:
+    name: Upgrade Master Schema
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout source code
+        uses: actions/checkout@v3
+
+      - name: Run flyway
+        run: echo "flyway master"
